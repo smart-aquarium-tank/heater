@@ -1,6 +1,3 @@
-# Aquarium tank water heater
-Using IRF520 MOSFET to turn the DC12V/50W heater on or off.
-
 ## Schematic
 ![schematic](http://qqtrading.com.my/image/catalog/Products/Module/IRF520/CK-1202_LRG.jpg)
 
